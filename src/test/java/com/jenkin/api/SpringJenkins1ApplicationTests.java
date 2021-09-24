@@ -18,6 +18,8 @@ class SpringJenkins1ApplicationTests {
 	@Test
 	void contextLoads() {
 		logger.info("*---------------Test case  Started---------*");
+		logger.info("*---------------Test case  Started 2nd log---------*");
+
 
 		assertEquals(true, true);
 	}
