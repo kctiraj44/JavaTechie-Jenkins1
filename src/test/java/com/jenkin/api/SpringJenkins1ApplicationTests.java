@@ -22,6 +22,8 @@ class SpringJenkins1ApplicationTests {
 		logger.info("*---------------Test case  Started 3nd log---------*");
 	        logger.info("*---------------Test case  Started 4nd log---------*");
 		logger.info("*---------------Test case  Started 5nd log---------*");
+		logger.info("*---------------Test case  Started 6nd log---------*");
+
 
 
 
